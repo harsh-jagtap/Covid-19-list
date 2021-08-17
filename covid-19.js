@@ -38,6 +38,7 @@ function insertingDetails() {
 
             srno += 1;
         }
+        console.log(data);
     })
 }
 
