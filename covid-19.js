@@ -3,7 +3,7 @@ console.log("Wel-come To COVID-19 List");
 
 // resource
 let insertP = document.querySelector("tbody");
-let url = "https://api.covid19api.com/summary"
+let url = "https://api.covid19api.com/summary";
 
 // fecthing and displaying
 function insertingDetails() {
